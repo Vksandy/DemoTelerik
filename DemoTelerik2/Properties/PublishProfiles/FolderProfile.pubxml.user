@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\0028FF744\source\repos\DemoTelerik2\DemoTelerik2\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2022-11-03T14:32:37.0910992Z;True|2022-11-03T20:00:43.8326894+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Data/RadCaptcha/0.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/1.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/2.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/3.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/4.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/5.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/6.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/7.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/8.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/9.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/A.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/B.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/C.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/D.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/E.wav">
+      <publishTime>06/22/2022 00:10:28</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/F.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/G.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/H.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/I.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/J.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/K.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/L.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/M.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/N.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/O.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/P.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Q.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/R.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/S.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/T.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/U.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/V.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/W.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/X.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Y.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadCaptcha/Z.wav">
+      <publishTime>06/22/2022 00:10:30</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/de-DE.tdf">
+      <publishTime>06/22/2022 00:12:52</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/en-US.tdf">
+      <publishTime>06/22/2022 00:12:52</publishTime>
+    </File>
+    <File Include="App_Data/RadSpell/fr-FR.tdf">
+      <publishTime>06/22/2022 00:12:52</publishTime>
+    </File>
+    <File Include="bin/DemoTelerik2.dll">
+      <publishTime>03/11/2022 20:00:42</publishTime>
+    </File>
+    <File Include="bin/DemoTelerik2.pdb">
+      <publishTime>03/11/2022 20:00:42</publishTime>
+    </File>
+    <File Include="bin/EnvDTE.dll">
+      <publishTime>06/05/2021 15:41:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/05/2022 15:03:12</publishTime>
+    </File>
+    <File Include="bin/stdole.dll">
+      <publishTime>06/05/2021 15:41:24</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.Design.dll">
+      <publishTime>06/21/2022 00:26:36</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.Spreadsheet.dll">
+      <publishTime>06/13/2022 16:40:52</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>06/21/2022 00:26:36</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>06/21/2022 00:26:36</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Core.dll">
+      <publishTime>06/13/2022 12:00:48</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Flow.dll">
+      <publishTime>06/13/2022 12:00:58</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.dll">
+      <publishTime>06/13/2022 12:01:06</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll">
+      <publishTime>06/13/2022 12:01:06</publishTime>
+    </File>
+    <File Include="bin/Telerik.Windows.Zip.dll">
+      <publishTime>06/13/2022 12:00:48</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="Grid.aspx">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="images/Chrysanthemum.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Desert.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Hydrangeas.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Jellyfish.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Koala.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Lighthouse.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/logo.png">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Penguins.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Chrysanthemum.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Desert.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Hydrangeas.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Jellyfish.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Koala.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Lighthouse.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Penguins.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Thumbnails/Tulips.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="images/Tulips.jpg">
+      <publishTime>02/11/2022 14:15:55</publishTime>
+    </File>
+    <File Include="ListView.aspx">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="MasterPageSingleMenu.Master">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="scripts/scripts.js">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="styles/base.css">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="styles/default.css">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="styles/grid.css">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="styles/listView.css">
+      <publishTime>02/11/2022 14:15:56</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>03/11/2022 20:00:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
